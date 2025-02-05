@@ -1,4 +1,6 @@
 # osTicket - Prerequisites and Installation
+<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+
 
 This tutorial provides a step-by-step guide on setting up the open-source help desk ticketing system, osTicket, including its prerequisites and installation.
 
